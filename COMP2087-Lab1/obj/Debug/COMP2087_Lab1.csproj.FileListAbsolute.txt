@@ -1,0 +1,6 @@
+C:\Users\Kcgreen\Desktop\Server Side Scripting\COMP2087-Lab1\COMP2087-Lab1\bin\COMP2087_Lab1.dll.config
+C:\Users\Kcgreen\Desktop\Server Side Scripting\COMP2087-Lab1\COMP2087-Lab1\bin\COMP2087_Lab1.dll
+C:\Users\Kcgreen\Desktop\Server Side Scripting\COMP2087-Lab1\COMP2087-Lab1\bin\COMP2087_Lab1.pdb
+C:\Users\Kcgreen\Desktop\Server Side Scripting\COMP2087-Lab1\COMP2087-Lab1\obj\Debug\COMP2087_Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Kcgreen\Desktop\Server Side Scripting\COMP2087-Lab1\COMP2087-Lab1\obj\Debug\COMP2087_Lab1.dll
+C:\Users\Kcgreen\Desktop\Server Side Scripting\COMP2087-Lab1\COMP2087-Lab1\obj\Debug\COMP2087_Lab1.pdb

@@ -1,0 +1,12 @@
+﻿body {
+    background-color: lightblue;
+}
+
+div{
+    padding-top: 15px;
+}
+
+#btnSubmit{
+    background-color: lightgrey;
+    font-weight: bold;
+}
